@@ -1,0 +1,19 @@
+/*Theme Name: fruitful-child
+Description: child theme of fruitful
+Template: fruitful
+Version: 3.7
+Text Domain: fruitful
+Tags: left-sidebar, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+*/
+
+@import url("../fruitful/style.css");
+.blog_post .date_of_post {
+    position:relative;
+    left:1px;
+    width:54px;
+    height:54px;
+    color:#fff;
+    float:left;
+    margin:0;
+    background: #50f122 !important;
+}
