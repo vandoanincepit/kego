@@ -15,5 +15,12 @@ Tags: left-sidebar, responsive-layout, accessibility-ready, custom-background, c
     color:#fff;
     float:left;
     margin:0;
-    background: #50f122 !important;
+    background: #81d742 !important;
+}
+header.post-header .post-title {
+    border-bottom: 2px solid #81d742 !important;
+}
+
+#page .container #secondary .widget h3.widget-title, #page .container #secondary .widget h1.widget-title {
+    border-bottom:2px solid #81d742 !important;
 }
